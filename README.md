@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-##JAVA
-##C++
-##HTML
-##CSS
-##Javascript
 
 
 <!--
