@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 🙌 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 하루하루 성장중인 개발자 연습생 . . 🔋 </div> <br>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 하루하루 성장중 . . 🔋 </div> <br>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
