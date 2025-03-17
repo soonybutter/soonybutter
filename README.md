@@ -57,7 +57,7 @@ I like *Front-end* , *Back-End* and wanna be a expert of it. I'm always open to 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌼 Tech Article
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=soonybutter&postId=default&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=soonybutter&postId=default&theme=default)](https://soonybutter.tistory.com/)
 &nbsp;&nbsp;&nbsp;
 
 ### 🏅 Stats
