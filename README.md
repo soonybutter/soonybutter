@@ -46,7 +46,7 @@ I like *Front-end* , *Back-End* and wanna be a expert of it. I'm always open to 
 ### 👩🏻‍💻 Projects
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
-|[SelfTop, 조립식 컴퓨터 쇼핑몰 셀프탑](https://github.com/Dipory-Dev/SelfTop)| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | Full Stack |  최우수상  | 2025 |
+|[SelfTop, 장바구니 기능을 강조한<br>  조립식 컴퓨터 쇼핑몰](https://github.com/Dipory-Dev/SelfTop)| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | Full Stack |  최우수상  | 2025 |
 |[집수리 소상공인 홈페이지, 별별집수리](https://github.com/soonybutter/com.com.star)| 조원 프로젝트 | Front-End |  참여  | 2024 |
 
 
@@ -56,7 +56,10 @@ I like *Front-end* , *Back-End* and wanna be a expert of it. I'm always open to 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;
+### 🌼 Tech Article
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=soonybutter&postId=default&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+&nbsp;&nbsp;&nbsp;
+
 ### 🏅 Stats
 <div style="text-align: left;"> 
     <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=soonybutter&bg_color=60,ffffff,ffffff&title_color=dfaaaa&text_color=dfaaaa"/> 
