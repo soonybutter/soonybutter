@@ -1,10 +1,13 @@
-<div align= "left"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcaca,100:fefbfb&height=120&width=400&text=&animation=&fontColor=000000&fontSize=70" /></div>
+<div align= "left">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcaca,100:fefbfb&height=120&width=400&text=&animation=&fontColor=000000&fontSize=70" />
+</div>
 
 
 
 ### Hi there👋🏻
-<img src="./images/github_profile.jpg" align="right" height="250"/>
-
+<div style="padding-left:1500;" >
+    <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="200" height="200" />    
+</div>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonybutter&count_bg=%23FFCACA&title_bg=%239E9E9E&icon=&icon_color=%23FFCACA&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -13,9 +16,14 @@
 
 <samp>I'm Da-Yeon Yang from 🇰🇷 Republic of Korea. You can call me **Angie**!<br>
 I'm studying hard to be a **Full-Stack Web Developer**.<br>
-I like *Front-end* , *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate!</samp>
+I like *Front-end* , *Back-End* and wanna be a expert of it. <br>
+I'm always open to your contacts so do not hesitate!</samp> <br>
+&nbsp;&nbsp;
 
-<div align= "left"> <a href=https://soonybutter.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://soonybutter.tistory.com/"> </a> </div>  <br> 
+<div align= "left"> 
+    <a href=https://soonybutter.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://soonybutter.tistory.com/"></a> 
+</div>  
+<br> 
 
 
 ### 🐼 Tech Skills
@@ -56,14 +64,20 @@ I like *Front-end* , *Back-End* and wanna be a expert of it. I'm always open to 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ### 🌼 Tech Article
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=soonybutter&postId=default&theme=default)](https://soonybutter.tistory.com/)
+[[JS] 자바스크립트 로컬스토리지(LocalStorage) , JSON - Object 타입 변환](https://soonybutter.tistory.com/114) <br><br>
+[[DB] 로킹(Locking) 단위 , 로킹과 병행성, DB 로킹 기법](https://soonybutter.tistory.com/113)<br><br>
+[[Git/ Sourcetree] rebase 충돌 해결법](https://soonybutter.tistory.com/103)<br><br>
+[[알고리즘] 슬라이딩 윈도우(Sliding Window)](https://soonybutter.tistory.com/88)<br><br>
 &nbsp;&nbsp;&nbsp;
 
-### 🏅 Stats
+
+### 🏅 Github Stats
 <div style="text-align: left;"> 
     <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=soonybutter&bg_color=60,ffffff,ffffff&title_color=dfaaaa&text_color=dfaaaa"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonybutter&layout=compact&bg_color=60,ffffff,ffffff&title_color=dfaaaa&text_color=dfaaaa"/> </div> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonybutter&layout=compact&bg_color=60,ffffff,ffffff&title_color=dfaaaa&text_color=dfaaaa"/> 
+    </div> 
 </div>
 
 
