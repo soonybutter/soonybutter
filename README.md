@@ -58,9 +58,10 @@ I'm always open to your contacts so do not hesitate!</samp> <br>
 
 &nbsp;
 ### 🧸 Currently in progress
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&0301_JSChromeApp)](https://github.com/soonybutter/0301_JSChromeApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=0301_JSChromeApp)](https://github.com/soonybutter/0301_JSChromeApp)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=0317_React)](https://github.com/soonybutter/0317_React)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### 🌼 Tech Article
