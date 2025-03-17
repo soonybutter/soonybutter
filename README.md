@@ -4,10 +4,8 @@
 
 
 
-### Hi there👋🏻
-<div style="padding-left:1500;" >
-    <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="200" height="200" />    
-</div>
+### Hi there👋🏻 <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />    
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonybutter&count_bg=%23FFCACA&title_bg=%239E9E9E&icon=&icon_color=%23FFCACA&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
