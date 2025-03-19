@@ -14,7 +14,7 @@
 
 <samp>I'm Da-Yeon Yang from 🇰🇷 Republic of Korea. You can call me **Angie**!<br>
 I'm studying hard to be a **Full-Stack Web Developer**.<br>
-I like *Front-end* , *Back-End* and wanna be a expert of it. <br>
+I like **Front-end** , **Back-End** and wanna be a expert of it. <br>
 I'm always open to your contacts so do not hesitate!</samp> <br>
 &nbsp;&nbsp;
 
