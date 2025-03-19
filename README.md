@@ -74,7 +74,7 @@ I'm always open to your contacts so do not hesitate!</samp> <br>
 
 ### 🏅 Github Stats
 <div style="text-align: left;"> 
-    <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=soonybutter&bg_color=60,ffffff,ffffff&title_color=dfaaaa&text_color=dfaaaa"/> 
+    <div align= "left"> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonybutter&layout=compact&bg_color=60,ffffff,ffffff&title_color=dfaaaa&text_color=dfaaaa"/> 
     </div> 
 </div>
