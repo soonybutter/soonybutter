@@ -15,7 +15,7 @@
 I'm studying hard to be a **Full-Stack Web Developer**.<br>
 I like **Front-end** , **Back-End** and wanna be a expert of it. <br>
 I'm always open to your contacts so do not hesitate! <br>
-email : ydy229@naver.com </samp> <br>
+💌  ydy229@naver.com </samp> <br>
 
 &nbsp;&nbsp;&nbsp;
 
