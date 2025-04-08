@@ -18,7 +18,7 @@ I'm always open to your contacts so do not hesitate! <br>
 <br>
 💌  ydy229@naver.com </samp> <br>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <div align= "left"> 
     <a href=https://soonybutter.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://soonybutter.tistory.com/"></a> 
