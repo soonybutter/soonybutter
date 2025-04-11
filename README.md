@@ -87,7 +87,9 @@ I'm always open to your contacts so do not hesitate! <br>
     </div> 
 </div>
 
-
-  
+<br>
+<br>
+<br>
+*잔디누락 이슈 복구중.. 🥲  
     
     
