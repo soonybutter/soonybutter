@@ -69,6 +69,7 @@ I'm always open to your contacts so do not hesitate! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=my-app)](https://github.com/soonybutter/my-app)
 &nbsp;&nbsp;&nbsp;&nbsp;
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=Coding_Test)]((https://github.com/soonybutter/Coding_Test.git))-->
 
 
 
