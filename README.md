@@ -42,7 +42,8 @@ I'm always open to your contacts so do not hesitate! <br>
             <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
+          <br/>
+          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -67,9 +68,9 @@ I'm always open to your contacts so do not hesitate! <br>
 ### 🧸 Currently in progress
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=0301_JSChromeApp)](https://github.com/soonybutter/0301_JSChromeApp)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=my-app)](https://github.com/soonybutter/my-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=onebite-react)](https://github.com/soonybutter/my-app)
 &nbsp;&nbsp;&nbsp;&nbsp;
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=Coding_Test)]((https://github.com/soonybutter/Coding_Test.git))-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=Coding_Test)](((https://github.com/soonybutter/onebite-react.git))-->
 
 
 
