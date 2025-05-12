@@ -76,10 +76,10 @@ I'm always open to your contacts so do not hesitate! <br>
 
 
 ### 🌼 Tech Article
-[[JS] 자바스크립트 로컬스토리지(LocalStorage) , JSON - Object 타입 변환](https://soonybutter.tistory.com/114) <br><br>
+[[React] useState와 set 함수, useRef](https://soonybutter.tistory.com/122) <br><br>
 [[DB] 로킹(Locking) 단위 , 로킹과 병행성, DB 로킹 기법](https://soonybutter.tistory.com/113)<br><br>
 [[Git/ Sourcetree] rebase 충돌 해결법](https://soonybutter.tistory.com/103)<br><br>
-[[알고리즘] 슬라이딩 윈도우(Sliding Window)](https://soonybutter.tistory.com/88)<br><br>
+[[Node.js] Node.js 모듈시스템 / Common JS(CJS) & ES Module(ESM)](https://soonybutter.tistory.com/120)<br><br>
 &nbsp;&nbsp;&nbsp;
 
 
