@@ -65,7 +65,7 @@ I'm always open to your contacts so do not hesitate! <br>
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
 |[SelfTop, 장바구니 기능을 강조한<br>  조립식 컴퓨터 쇼핑몰](https://github.com/Dipory-Dev/SelfTop)| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | Full Stack |  최우수상  | 2025 |
-|[집수리 소상공인 홈페이지, 별별집수리](https://github.com/soonybutter/com.com.star)| 조원 프로젝트 | Front-End |  참여  | 2024 |
+|[집수리 소상공인 홈페이지, 별별집수리](https://github.com/soonybutter/com.com.star)| 자율 프로젝트 | Front-End |  참여  | 2024 |
   
 
 &nbsp;
