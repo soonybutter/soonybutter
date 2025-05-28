@@ -72,7 +72,7 @@ I'm always open to your contacts so do not hesitate! <br>
 ### 🧸 Currently in progress
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=0301_JSChromeApp)](https://github.com/soonybutter/0301_JSChromeApp)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=onebite-react)](https://github.com/soonybutter/my-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=onebite-react)](https://github.com/soonybutter/onebite-react)
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=Coding_Test)](((https://github.com/soonybutter/onebite-react.git))-->
 
