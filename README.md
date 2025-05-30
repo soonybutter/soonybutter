@@ -19,7 +19,8 @@ I like **Front-end** , **Back-End** and wanna be a expert of it. <br>
 I'm always open to your contacts so do not hesitate! <br>
 <br>
 <br>
-💌contact :  ydy229@naver.com </samp> <br>
+💌contact :  ydy229@naver.com </samp> 
+<br>
 
 
 &nbsp;
