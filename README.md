@@ -12,9 +12,8 @@
 
 
 
-<samp> Hello, I'm Da-Yeon Yang from 🇰🇷 Republic of Korea. You can call me **Da-Yeon**!<br> 
+<samp> Hello, I'm Da-Yeon Yang from 🇰🇷 Republic of Korea. <br>
 I'm working hard to be a **Full-Stack Web Developer**.<br>
-I like **Front-end** , **Back-End** and wanna be a expert of it. <br>
 I'm always open to your contacts so do not hesitate! <br>
 <br>
 <br>
