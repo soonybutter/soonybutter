@@ -8,20 +8,12 @@
 ### 안녕하세요☺️ <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />     
 
 
-
-
-
-
-<samp> Hello, I'm Da-Yeon Yang from 🇰🇷 Republic of Korea. <br>
-I'm working hard to be a **Full-Stack Web Developer**.<br>
-I'm always open to your contacts so do not hesitate! <br>
-<br>
 <br>
 💌contact :  ydy229@naver.com </samp> 
 <br>
 
-
 &nbsp;
+
 
 <div align= "left"> 
     <a href=https://soonybutter.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://soonybutter.tistory.com/"></a> 
