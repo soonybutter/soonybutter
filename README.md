@@ -5,21 +5,17 @@
 
 
 
-### 안녕하세요☺️ <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />     
+### 안녕하세요☺️ 
+<img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />     
 
 
 <br>
 💌contact :  ydy229@naver.com </samp> 
 <br>
-
-&nbsp;
-
-
-<div align= "left"> 
-    <a href=https://soonybutter.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://soonybutter.tistory.com/"></a> 
-</div>  
-<br> 
-
+<br>
+<br>
+<br>
+<br>
 
 ### 🐼 Tech Skills
 <div style="text-align: left;">
