@@ -18,7 +18,8 @@
 <br>
 
 ### 🐼 Tech Skills
-<div style="text-align: left;">
+<br/>
+<div style="text-align: center;">
     <div align= "center"> 
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -26,8 +27,8 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-        <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
       <br/>
+        <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -52,17 +53,11 @@
 ### 👩🏻‍💻 Projects
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
-|[SelfTop, 장바구니 기능을 강조한<br>  조립식 컴퓨터 쇼핑몰](https://github.com/Dipory-Dev/SelfTop)| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | Full Stack |  최우수상  | 2025 |
-|[집수리 소상공인 홈페이지, 별별집수리](https://github.com/soonybutter/com.com.star)| 자율 프로젝트 | Front-End |  참여  | 2024 |
+|[SelfTop, 장바구니 기능을 강조한<br>  조립식 컴퓨터 쇼핑몰](https://github.com/Dipory-Dev/SelfTop)| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | FE , BE |  최우수상  | 2025 |
+|[집수리 소상공인 홈페이지, 별별집수리](https://github.com/soonybutter/com.com.star)| 자율 프로젝트 | FE , BE |    | 2024 (refactorying~) |
   
 
 &nbsp;
-### 🧸 Currently in progress
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=0301_JSChromeApp)](https://github.com/soonybutter/0301_JSChromeApp)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=onebite-react)](https://github.com/soonybutter/onebite-react)
-&nbsp;&nbsp;&nbsp;&nbsp;
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soonybutter&repo=Coding_Test)](((https://github.com/soonybutter/onebite-react.git))-->
 
 
 
