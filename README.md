@@ -10,7 +10,7 @@
 
 
 <br>
-💌contact :  ydy229@naver.com </samp> 
+💌ydy229@naver.com </samp> 
 <br>
 <br>
 <br>
