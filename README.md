@@ -23,7 +23,7 @@
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
 |[<b>장바구니 기능을 강조한 조립식 컴퓨터 쇼핑몰 'SelfTop'<b>](https://github.com/Dipory-Dev/SelfTop)| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | FE+BE |  최우수상  | 2025 |
-|[<b>집수리 소상공인 홈페이지 '별별집수리'<b>](https://github.com/soonybutter/com.com.star)| 자율 프로젝트 | FE+BE |    | 2024 <br>(refactorying-2025) |
+|[<b>집수리 소상공인 홈페이지 '별별집수리'<b>](https://github.com/soonybutter/starstarsuri_BE)| 자율 프로젝트 | FE+BE |    | 2024 <br>(refactorying-2025) |
 |<b>개인 포트폴리오 웹 사이트 <b>| 자율 프로젝트 | FE+BE |    | 2025 |
 |<b>챌린지형 저축 목표 관리 앱 '티끌'<b>| 자율 프로젝트 | FE+BE |    | 2025 |
 
