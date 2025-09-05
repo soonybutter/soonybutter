@@ -10,7 +10,8 @@
 
 
 <br>
-💌ydy229@naver.com </samp> 
+<b>💌Mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> ydy229@naver.com <br>
+<b>🐋Tech Blog &nbsp;&nbsp;</b>  https://soonybutter.tistory.com/
 <br>
 <br>
 <br>
@@ -29,7 +30,7 @@
 
   
 
-&nbsp;
+
 
 
 
