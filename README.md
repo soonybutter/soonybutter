@@ -5,14 +5,16 @@
 
 
 
-### 안녕하세요 ! 
+### 안녕하세요, 웹 개발자 양다연입니다.
 
 <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />     
 
-
 <br>
-<b>💌 Mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> ydy229@naver.com <br>
-<b>🐋 Tech Blog &nbsp;&nbsp;</b>  https://soonybutter.tistory.com/
+<br>
+
+### 🐋 Contact 
+ ydy229@naver.com 
+<br>
 <br>
 <br>
 <br>
@@ -28,7 +30,8 @@
 |<b>개인 포트폴리오 웹 사이트 <b>| 자율 프로젝트 | FE,BE |    | 2025 |
 |<b>챌린지형 저축 목표 관리 앱 '티끌'<b>| 자율 프로젝트 | FE,BE |    | 2025 |
 
-  
+<br>
+<br>
 
 
 
@@ -42,6 +45,8 @@
 [[Node.js] Node.js 모듈시스템 / Common JS(CJS) & ES Module(ESM)](https://soonybutter.tistory.com/120)<br><br>
 &nbsp;&nbsp;&nbsp;
 
+<br>
+<br>
 
 ### 🏅 Github Stats
 <div style="text-align: left;"> 
