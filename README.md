@@ -1,11 +1,8 @@
 <div align= "left">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcaca,100:fefbfb&height=120&width=400&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcaca,100:fefbfb&height=80&width=400&text=&animation=&fontColor=000000&fontSize=70" />
 </div>
 
-
-
-
-### 안녕하세요, 웹 개발자 양다연입니다.
+### 안녕하세요☺️
 
 <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />     
 
@@ -19,9 +16,6 @@
 <br>
 <br>
 
-
-
-
 ### 👩🏻‍💻 Projects
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
@@ -32,11 +26,6 @@
 
 <br>
 <br>
-
-
-
-
-
 
 ### 🌼 Tech Article
 [[React] useState와 set 함수, useRef](https://soonybutter.tistory.com/122) <br><br>
