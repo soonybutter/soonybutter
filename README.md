@@ -35,7 +35,6 @@
 &nbsp;&nbsp;&nbsp;
 
 <br>
-<br>
 
 ### 🏅 Github Stats
 <div style="text-align: left;"> 
@@ -44,8 +43,6 @@
     </div> 
 </div>
 
-<br>
-<br>
 <br>
 
     
