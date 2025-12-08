@@ -34,16 +34,6 @@
 [[Node.js] Node.js 모듈시스템 / Common JS(CJS) & ES Module(ESM)](https://soonybutter.tistory.com/120)<br><br>
 &nbsp;
 
-<br>
-
-### 🏅 Github Stats
-<div style="text-align: left;"> 
-    <div align= "left"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonybutter&layout=compact&bg_color=60,ffffff,ffffff&title_color=dfaaaa&text_color=dfaaaa"/> 
-    </div> 
-</div>
-
-<br>
 
     
     
