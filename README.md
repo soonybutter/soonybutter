@@ -9,14 +9,14 @@
 <br>
 <br>
 
-### 🐋 Contact 
+###  · Contact 
  ydy229@naver.com 
 <br>
 <br>
 <br>
 <br>
 
-### 👩🏻‍💻 Projects
+###  · Projects
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
 |<b>장바구니 기능을 강조한 조립식 컴퓨터 쇼핑몰 'SelfTop'<b>| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | FE,BE |  최우수상  | 2025 |
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-### 🌼 Tech Article
+###  · Tech Article
 [[React] useState와 set 함수, useRef](https://soonybutter.tistory.com/122) <br><br>
 [[DB] 로킹(Locking) 단위 , 로킹과 병행성, DB 로킹 기법](https://soonybutter.tistory.com/113)<br><br>
 [[Git/ Sourcetree] rebase 충돌 해결법](https://soonybutter.tistory.com/103)<br><br>
