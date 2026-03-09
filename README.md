@@ -27,7 +27,7 @@
 <br>
 <br>
 
-###  · Tech Article
+###  · Tech Article 
 [[React] useState와 set 함수, useRef](https://soonybutter.tistory.com/122) <br><br>
 [[DB] 로킹(Locking) 단위 , 로킹과 병행성, DB 로킹 기법](https://soonybutter.tistory.com/113)<br><br>
 [[Git/ Sourcetree] rebase 충돌 해결법](https://soonybutter.tistory.com/103)<br><br>
