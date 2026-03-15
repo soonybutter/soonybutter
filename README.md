@@ -1,10 +1,13 @@
-<div align= "left">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcaca,100:fefbfb&height=80&width=400&text=&animation=&fontColor=000000&fontSize=70" />
-</div>
-
-### 안녕하세요☺️
-
+<br>
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />     
+<br>
+<br>
+
+### 안녕하세요!
+
+
 
 <br>
 <br>
