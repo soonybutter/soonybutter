@@ -17,12 +17,12 @@
 <br>
 
 ###  · Projects
-|Project|Contest|Tech| Award |Year|
-|:---:|:---:|:---:|:---:|:---:|
-|<b>장바구니 기능을 강조한 조립식 컴퓨터 쇼핑몰 'SelfTop'<b>| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | FE,BE |  최우수상  | 2025 |
-|<b>집수리 소상공인 홈페이지 '별별집수리'<b>| 자율 프로젝트 | FE,BE |    | 2024  2025(refactorying) |
-|<b>개인 포트폴리오 웹 사이트 <b>| 자율 프로젝트 | FE,BE |    | 2025 |
-|<b>챌린지형 저축 목표 관리 앱 '티끌'<b>| 자율 프로젝트 | FE,BE |    | 2025 |
+|Project|Contest|Tech|Award|Repo|Year|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<b>조립식 컴퓨터 쇼핑몰 'SelfTop'<b>| 현대이지웰 풀스택 아카데미 프로젝트 경진대회 | FE,BE |  최우수상|[Repo](https://github.com/soonybutter/selfTop.git)| 2025 |
+|<b>소상공인 홈페이지 '별별집수리'<b>| 자율 프로젝트 | FE,BE | |[Frontend](https://github.com/soonybutter/starstarsuri_FE.git) [Backend](https://github.com/soonybutter/starstarsuri_BE.git)| 2024  2025(refactorying) |
+|<b>개인 포트폴리오 웹 사이트 <b>| 자율 프로젝트 | FE,BE |  |[Repo](https://github.com/soonybutter/soonybutter.github.io.git)| 2025 |
+|<b>가상 저출 앱 '티끌'<b>| 자율 프로젝트 | FE,BE |  |[Frontend](https://github.com/soonybutter/tikkle_FE.git) [Backend](https://github.com/soonybutter/tikkle.git)| 2025 |
 
 <br>
 <br>
