@@ -31,10 +31,10 @@
 <br>
 
 ###  · Tech Article 
-[[React] useState와 set 함수, useRef](https://soonybutter.tistory.com/122) <br><br>
-[[DB] 로킹(Locking) 단위 , 로킹과 병행성, DB 로킹 기법](https://soonybutter.tistory.com/113)<br><br>
-[[Git/ Sourcetree] rebase 충돌 해결법](https://soonybutter.tistory.com/103)<br><br>
-[[Node.js] Node.js 모듈시스템 / Common JS(CJS) & ES Module(ESM)](https://soonybutter.tistory.com/120)<br><br>
+[[ERROR] Nginx HTTPS 500 에러와 Spring Boot StackOverflowError 해결](https://soonybutter.tistory.com/159) <br><br>
+[[ERROR/NginX] OAuth 로그인 이후 무한 리다이렉트(302) 문제 해결과 인증 흐름 개선](https://soonybutter.tistory.com/158)<br><br>
+[[ERROR] 잘 접속되던 사이트가 화이트라벨 페이지가 뜨는 이유 - AWS EC2 / NginX 프록시](https://soonybutter.tistory.com/150)<br><br>
+[[DB/OracleDB] Oracle DB 삭제한 데이터 복구하기 (TIMESTAMP)](https://soonybutter.tistory.com/109)<br><br>
 &nbsp;
 
 
