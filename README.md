@@ -2,8 +2,6 @@
 <br>
 <br>
 <img src="https://github.com/user-attachments/assets/99fb28dc-19d1-4ff1-adbc-f4725aa647a1" width="210" height="210" align="right" />     
-<br>
-<br>
 
 ### 안녕하세요!
 
